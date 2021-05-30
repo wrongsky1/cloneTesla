@@ -1,20 +1,29 @@
 {
   "files": {
     "main.css": "/cloneTesla/static/css/main.94156875.chunk.css",
-    "main.js": "/cloneTesla/static/js/main.e649f4c7.chunk.js",
-    "main.js.map": "/cloneTesla/static/js/main.e649f4c7.chunk.js.map",
+    "main.js": "/cloneTesla/static/js/main.44b399c7.chunk.js",
+    "main.js.map": "/cloneTesla/static/js/main.44b399c7.chunk.js.map",
     "runtime-main.js": "/cloneTesla/static/js/runtime-main.4375b516.js",
     "runtime-main.js.map": "/cloneTesla/static/js/runtime-main.4375b516.js.map",
     "static/js/2.9580775e.chunk.js": "/cloneTesla/static/js/2.9580775e.chunk.js",
     "static/js/2.9580775e.chunk.js.map": "/cloneTesla/static/js/2.9580775e.chunk.js.map",
     "index.html": "/cloneTesla/index.html",
     "static/css/main.94156875.chunk.css.map": "/cloneTesla/static/css/main.94156875.chunk.css.map",
-    "static/js/2.9580775e.chunk.js.LICENSE.txt": "/cloneTesla/static/js/2.9580775e.chunk.js.LICENSE.txt"
+    "static/js/2.9580775e.chunk.js.LICENSE.txt": "/cloneTesla/static/js/2.9580775e.chunk.js.LICENSE.txt",
+    "static/media/accessories.027ada94.jpg": "/cloneTesla/static/media/accessories.027ada94.jpg",
+    "static/media/down-arrow.9b52668f.svg": "/cloneTesla/static/media/down-arrow.9b52668f.svg",
+    "static/media/logo.a7b59bc6.svg": "/cloneTesla/static/media/logo.a7b59bc6.svg",
+    "static/media/model-3.30651f79.jpg": "/cloneTesla/static/media/model-3.30651f79.jpg",
+    "static/media/model-s.b65171b9.jpg": "/cloneTesla/static/media/model-s.b65171b9.jpg",
+    "static/media/model-x.25937b94.jpg": "/cloneTesla/static/media/model-x.25937b94.jpg",
+    "static/media/model-y.30acb76a.jpg": "/cloneTesla/static/media/model-y.30acb76a.jpg",
+    "static/media/solar-panel.d7d441d7.jpg": "/cloneTesla/static/media/solar-panel.d7d441d7.jpg",
+    "static/media/solar-roof.acfd9045.jpg": "/cloneTesla/static/media/solar-roof.acfd9045.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4375b516.js",
     "static/js/2.9580775e.chunk.js",
     "static/css/main.94156875.chunk.css",
-    "static/js/main.e649f4c7.chunk.js"
+    "static/js/main.44b399c7.chunk.js"
   ]
 }
