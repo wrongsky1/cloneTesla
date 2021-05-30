@@ -1,6 +1,7 @@
 import React from 'react'
 import styled from 'styled-components';
 import Fade from 'react-reveal/Fade';
+import downarrow from '../images/down-arrow.svg'
 
 function Section({ title, description, backgroundImg, leftBtnText, rightBtnText }) {
     return (
@@ -24,7 +25,8 @@ function Section({ title, description, backgroundImg, leftBtnText, rightBtnText 
                         }
                     </ButtonGroup>
                 </Fade>
-                <DownArrow src='/images/down-arrow.svg'/>
+                <DownArrow src={downarrow}/>
+                {/* <DownArrow src='/images/down-arrow.svg'/> */}
             </Buttons>
         </Wrap>
     )
@@ -44,8 +46,9 @@ const Wrap = styled.div`
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: ${props => `url("/images/${props.bgImage}")`}
+    background-image: ${props => `url("${props.bgImage}")`}
 `
+// background-image: ${props => `url("../images/${props.bgImage}")`}
 
 const ItemText = styled.div`
     padding-top: 15vh;
